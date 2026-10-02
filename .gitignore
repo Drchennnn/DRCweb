@@ -13,3 +13,6 @@ dist/
 # Local temporary files
 .DS_Store
 *.log
+
+# Local research notes
+/开发参考与实施草案.md

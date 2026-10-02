@@ -14,7 +14,6 @@
 | [DRCwb.md](DRCwb.md) | 架构、规划文件交互、效果与已有配置 |
 | [CHECKLIST.md](CHECKLIST.md) | 最新一轮工作与验收证据 |
 | [PROGRESS_HISTORY.md](PROGRESS_HISTORY.md) | 重要结果及决策时间线 |
-| [开发参考与实施草案.md](开发参考与实施草案.md) | 参考站前期研究与来源 |
 
 ## 开发与运行
 

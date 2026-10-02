@@ -4,7 +4,7 @@
 
 ## 1. 技术选型与范围
 
-采用 Astro + Starlight、TypeScript、原生 CSS 与 SVG，环境使用 Node.js + pnpm，不需要 Miniconda/uv。初始化时核对兼容版本并提交锁文件；Rapide 可选。组织参考 Astro/Starlight 约定及 [参考站研究](开发参考与实施草案.md)。
+采用 Astro + Starlight、TypeScript、原生 CSS 与 SVG，环境使用 Node.js + pnpm，不需要 Miniconda/uv。初始化时核对兼容版本并提交锁文件；Rapide 可选。组织参考 Astro/Starlight 约定及 [ShepherdsBlog 参考源码](https://github.com/Duskydream/ShepherdsBlog)。
 
 主体为静态内容网站：文章集合生成页面、栏目、标签、RSS 和 Pagefind 搜索索引；浏览器负责主题、菜单、转场和音频。首版不默认增加数据库、登录或常驻后端；评论、热力图、收藏和邮件订阅按需扩展。
 
