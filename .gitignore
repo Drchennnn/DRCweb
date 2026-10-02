@@ -1,0 +1,15 @@
+# Dependencies and generated output
+node_modules/
+dist/
+.astro/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local temporary files
+.DS_Store
+*.log
